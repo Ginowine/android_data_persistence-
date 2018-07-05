@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hub Members App</string>
+
+
+    <string-array name="membership_plans_arrays">
+        <item>Starter Plan - 3000</item>
+        <item>Basic Plan - 5000</item>
+        <item>Delux plan - 8000</item>
+    </string-array>
+
+    <string-array name="sex_arrays">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string name="plan_prompt">Choose a membership plan</string>
+    <string name="gender_prompt">Choose Gender</string>
+</resources>
